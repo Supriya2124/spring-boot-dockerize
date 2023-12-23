@@ -13,7 +13,6 @@ java {
 repositories {
 	mavenCentral()
 }
-jar.baseName="spring-boot-docker"
 
 dependencies {
 	implementation 'org.springframework.boot:spring-boot-starter-web'
